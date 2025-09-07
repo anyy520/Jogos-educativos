@@ -21,6 +21,7 @@ O menu inicial permite escolher qual jogo abrir e também encerrar o programa.
 👉 Não é necessário instalar nada extra com `pip install`.
 
 ---
+
 meu_projeto/
 ├── menu_principal.py # Menu inicial com botões
 ├── jogo_memoria_tk.py # Lógica do jogo da memória
